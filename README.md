@@ -29,6 +29,6 @@
 
 
 
-## Destek
+## Teşekkürler
 Eğer projelerimi beğendiyseniz, yıldız vermeyi unutmayın ⭐️
 
