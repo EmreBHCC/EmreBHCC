@@ -4,7 +4,7 @@
 # Merhaba, Ben Emre BAHÇECİ ! 👋
 
 <p>
-  Beni takip edebileceğiniz yerler -->
+  Beni takip edebileceğiniz yerler -->   
   <a href="https://www.linkedin.com/in/emrebahceci/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
