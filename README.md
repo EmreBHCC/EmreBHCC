@@ -2,6 +2,20 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub followers](https://img.shields.io/github/followers/EmreBHCC?label=Follow&style=social)
 
 # Merhaba, Ben Emre BAHÇECİ ! 👋
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/emrebahceci/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/emre_bahceci/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://emrebahceci.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"> 
+  </a>
+</p>
+  
 ## Hakkımda
 - 🚀 Hedefim CPP'de ve Python'da ileri düzey bilgi sahibi olmak.
 - 🌱 Büyüyünce IDE olmak istiyorum. 😊
