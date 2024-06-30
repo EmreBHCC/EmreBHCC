@@ -21,15 +21,6 @@
 ##
 ![80's Pixel Art](https://i.giphy.com/l19ipdY2pjK3d8Omtz.webp)
 
-<!--
-## Öne Çıkan Projeler
-- [Proje Adı](https://github.com/YourUsername/ProjectName): Proje açıklaması.
-- [Proje Adı](https://github.com/YourUsername/ProjectName): Proje açıklaması.
--->
-<h3 align="left">Languages and Tools:</h3>
-
-
-
 ## Teşekkürler
 Eğer projelerimi beğendiyseniz, yıldız vermeyi unutmayın ⭐️
 
