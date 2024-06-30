@@ -1,4 +1,4 @@
-# Merhaba, Ben [Emre BAHCECI]! 👋
+# Merhaba, Ben Emre BAHCECI ! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/EmreBHCC?label=Follow&style=social)](https://github.com/EmreBHCC)
 
