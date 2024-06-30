@@ -1,4 +1,3 @@
-![Açıklama](https://i.giphy.com/l19ipdY2pjK3d8Omtz.webp)
 # Merhaba, Ben Emre BAHÇECİ ! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/EmreBHCC?label=Follow&style=social)](https://github.com/EmreBHCC)
@@ -19,6 +18,8 @@
 ## Bağlantılar
 - [Web Sitem](https://emrebahceci.com)
 - [LinkedIn](https://www.linkedin.com/in/emrebahceci)
+##
+![80's Pixel Art](https://i.giphy.com/l19ipdY2pjK3d8Omtz.webp)
 
 <!--
 ## Öne Çıkan Projeler
