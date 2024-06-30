@@ -3,8 +3,8 @@
 
 # Merhaba, Ben Emre BAHÇECİ ! 👋
 
-<p align="center">
-  
+<p>
+  Beni takip edebileceğiniz yerler -->
   <a href="https://www.linkedin.com/in/emrebahceci/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -28,10 +28,6 @@
 ## En Çok Kullanılan Diller
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBHCC&layout=compact&theme=radical)
-
-## Bağlantılar
-- [Web Sitem](https://emrebahceci.com)
-- [LinkedIn](https://www.linkedin.com/in/emrebahceci)
 ##
 ![80's Pixel Art](https://i.giphy.com/l19ipdY2pjK3d8Omtz.webp)
 
