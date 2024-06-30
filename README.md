@@ -16,7 +16,7 @@
   </a>
 </p>
   
-## Hakkımda
+##
 - 🚀 Hedefim CPP'de ve Python'da ileri düzey bilgi sahibi olmak.
 - 🌱 Büyüyünce IDE olmak istiyorum. 😊
 - 💬 Herhangi bir konuda konuşmak isterseniz bana bu epostadan ulaşabilirsiniz --> [Email](mailto:emrebahceci38@gmail.com).
