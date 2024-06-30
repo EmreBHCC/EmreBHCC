@@ -1,3 +1,4 @@
+![Açıklama](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzB0dWk3dW5yZzJqanU1bG5uN29sNWZ1ZWVwZWc4MWsyMmRrYXo0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l19ipdY2pjK3d8Omtz/giphy.webp)
 # Merhaba, Ben Emre BAHÇECİ ! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/EmreBHCC?label=Follow&style=social)](https://github.com/EmreBHCC)
