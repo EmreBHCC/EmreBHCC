@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBHCC&layout=compact&theme=radical)
 
 ## Bağlantılar
-- [Kişisel Web Sitesi](https://emrebahceci.com)
+- [Web Sitem](https://emrebahceci.com)
 - [LinkedIn](https://www.linkedin.com/in/emrebahceci)
 <!--
 ## Öne Çıkan Projeler
