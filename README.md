@@ -35,5 +35,7 @@
 
 ## Teşekkürler
 Eğer projelerimi beğendiyseniz, yıldız vermeyi unutmayın ⭐️
-## The Legend of Zelda Oyunundan Link
+## 
 ![Link Resting](https://i.pinimg.com/originals/47/53/d7/4753d776ae8b2e1bd3ba05289ad27f8b.gif)
+
+The Legend of Zelda Oyunundan Ana Karakterimiz "Link"
