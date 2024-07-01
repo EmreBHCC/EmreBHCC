@@ -16,11 +16,13 @@
     <img align="center" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"> 
   </a> |
 </p>
-  
+- 💬 Herhangi bir konuda konuşmak isterseniz bana bu epostadan ulaşabilirsiniz -->
+
+[![Mail](https://img.shields.io/badge/Email-Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emrebahceci38@gmail.com)
+
 ##
 - 🚀 Hedefim CPP'de ve Python'da ileri düzey bilgi sahibi olmak.
 - 🌱 Büyüyünce IDE olmak istiyorum. 😊
-- 💬 Herhangi bir konuda konuşmak isterseniz bana bu epostadan ulaşabilirsiniz --> [Email](mailto:emrebahceci38@gmail.com).
 - 🕹️ Unreal Engine ile ilgileniyorum ve oyun oynamayı çok severim.
 
 ## GitHub İstatistiklerim
@@ -33,5 +35,5 @@
 
 ## Teşekkürler
 Eğer projelerimi beğendiyseniz, yıldız vermeyi unutmayın ⭐️
-##
+## The Legend of Zelda Oyunundan Link
 ![Link Resting](https://i.pinimg.com/originals/47/53/d7/4753d776ae8b2e1bd3ba05289ad27f8b.gif)
