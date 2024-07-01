@@ -21,11 +21,11 @@
 - 🌱 Büyüyünce IDE olmak istiyorum. 😊
 - 💬 Herhangi bir konuda konuşmak isterseniz bana bu epostadan ulaşabilirsiniz --> [Email](mailto:emrebahceci38@gmail.com).
 
-## GitHub İstatistikleri
+## GitHub İstatistiklerim
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreBHCC&show_icons=true&theme=radical)
 
-## En Çok Kullanılan Diller
+## En Çok Kullandığımm Diller
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBHCC&layout=compact&theme=radical)
 ##
