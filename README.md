@@ -28,8 +28,6 @@
 ## En Çok Kullandığımm Diller
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBHCC&layout=compact&theme=radical)
-##
-![80's Pixel Art](https://i.giphy.com/l19ipdY2pjK3d8Omtz.webp)
 
 ## Teşekkürler
 Eğer projelerimi beğendiyseniz, yıldız vermeyi unutmayın ⭐️
