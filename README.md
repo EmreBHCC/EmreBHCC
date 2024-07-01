@@ -17,7 +17,7 @@
   </a> |
 </p>
 
-  ⬇️ Bana email gondermek isterseniz ⬇️
+  ⬇️ Bana email gondermek isterseniz
   
   [![Mail](https://img.shields.io/badge/Email-Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emrebahceci38@gmail.com)
 
