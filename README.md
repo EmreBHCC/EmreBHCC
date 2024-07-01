@@ -16,6 +16,7 @@
     <img align="center" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"> 
   </a> |
   Bana email gondermek isterseniz ⬇️
+  
   [![Mail](https://img.shields.io/badge/Email-Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emrebahceci38@gmail.com)
   
 </p>
