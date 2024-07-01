@@ -5,7 +5,7 @@
 # Merhaba, Ben Emre BAHÇECİ ! 👋
 ![GitHub followers](https://img.shields.io/github/followers/EmreBHCC?label=Follow&style=social) 
 <p>
-  Beni takip edebileceğiniz yerler<br>
+  Beni takip edebileceğiniz yerler ---> 
   <a href="https://www.linkedin.com/in/emrebahceci/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
