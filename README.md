@@ -17,8 +17,6 @@
   </a>
   
   [![Mail](https://img.shields.io/badge/Email-Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emrebahceci38@gmail.com)
-  
-  |
 </p>
 
 
