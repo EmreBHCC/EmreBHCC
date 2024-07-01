@@ -5,13 +5,15 @@
 # Merhaba, Ben Emre BAHÇECİ ! 👋
 ![GitHub followers](https://img.shields.io/github/followers/EmreBHCC?label=Follow&style=social) 
 <p>
-  Beni takip edebileceğiniz yerler -->   |
+  Beni takip edebileceğiniz yerler
   <a href="https://www.linkedin.com/in/emrebahceci/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
   <a href="https://www.instagram.com/emre_bahceci/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  
   <a href="https://emrebahceci.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"> 
   </a>
