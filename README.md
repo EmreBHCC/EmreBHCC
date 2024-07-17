@@ -31,14 +31,6 @@
 - 🌱 Büyüyünce IDE olmak istiyorum. 😊
 - 🕹️ Unreal Engine ile ilgileniyorum ve oyun oynamayı çok severim.
 
-## GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreBHCC&show_icons=true&theme=radical)
-
-## En Çok Kullandığımm Diller
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBHCC&layout=compact&theme=radical)
-
 ## Teşekkürler
 Eğer projelerimi beğendiyseniz, yıldız vermeyi unutmayın ⭐️
 ## 
