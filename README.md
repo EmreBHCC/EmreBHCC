@@ -31,8 +31,6 @@
 - 🌱 Yapay Zeka Üzerine ileri düzey bilgi sahibi olmak istiyorum. 😊
 - 🕹️ Unreal Engine ile ilgileniyorum ve oyun oynamayı çok severim.
 
-## Teşekkürler
-Eğer projelerimi beğendiyseniz, yıldız vermeyi unutmayın ⭐️
 ## 
 ![Link Resting](https://i.pinimg.com/originals/47/53/d7/4753d776ae8b2e1bd3ba05289ad27f8b.gif)
 
