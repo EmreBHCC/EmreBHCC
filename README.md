@@ -27,8 +27,7 @@
 </p>
 
 ##
-- 🚀 Hedefim Python'da ileri düzey bilgi sahibi olmak.
-- 🌱 Yapay Zeka Üzerine ileri düzey bilgi sahibi olmak istiyorum. 😊
+- 🚀 Hedefim 🐍Python'da Yapay Zeka Üzerine ileri düzey bilgi sahibi olmak. 😊
 - 🕹️ Unreal Engine ile ilgileniyorum ve oyun oynamayı çok severim.
 
 ## 
