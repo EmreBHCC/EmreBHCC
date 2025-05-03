@@ -25,19 +25,24 @@
 
 ### 🧠 Yapay Zeka / Makine Öğrenmesi
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch)
+![YOLO](https://img.shields.io/badge/-YOLO-00AEEF?style=for-the-badge&logo=YOLO)
 
 ### 🌐 Web Geliştirme
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
+### 🎮 Oyun Geliştirme
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal%20engine)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity)
+
 ### 🛢️ Veritabanları
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 
-### 🎮 Oyun Geliştirme
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal%20engine)
+
 
 ## 📊 GitHub İstatistiklerim
 
