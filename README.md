@@ -1,6 +1,6 @@
 <img src="https://github.com/EmreBHCC/assets/blob/main/5c612iy7q5ia1.gif">
 
-<h1 align="center">✨ Emre BAHÇECİ - Coding, Creating & Exploring ✨</h1>
+<h1 align="center">✨ Coding, Creating & Exploring ✨</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Merhaba+Ben+Emre+BAH%C3%87EC%C4%B0;AI+Developer;Kod+yazmak+bir+ya%C5%9Fam+stili" alt="Typing SVG" />
 </p>
