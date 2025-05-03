@@ -5,8 +5,7 @@
 ## 👨‍💻 Hakkımda
 
 - 🧠 **Yapay Zeka** alanında uzmanlaşmak isteyen bir geliştiriciyim.  
-- 🎮 **Unreal Engine** ile oyun geliştirmeye ilgim var.  
-- 💻 Backend & Frontend alanlarında da çalışmalarım bulunmakta.  
+- 🎮 **Unreal Engine** ve **Unity** ile oyun geliştirmeye ilgim var.  
 - 📚 Sürekli öğrenen, gelişen ve paylaşan biriyim.
 
 ## 🚀 Kullandığım Teknolojiler
