@@ -1,11 +1,6 @@
-![Link Resting](https://github.com/EmreBHCC/assets/blob/main/4753d776ae8b2e1bd3ba05289ad27f8b.gif)
-
-<h1 align="center">✨ Dinlenme Yerim ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Merhaba+Ben+Emre+BAH%C3%87EC%C4%B0;AI+Developer;Kod+yazmak+bir+ya%C5%9Fam+stili" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=500&center=true&vCenter=true&width=500&height=60&lines=Merhaba+Ben+Emre+BAH%C3%87EC%C4%B0;AI+Developer;Kod+yazmak+bir+ya%C5%9Fam+stili" alt="Typing SVG" />
 </p>
-
-
 
 ## 👨‍💻 Hakkımda
 
@@ -48,7 +43,7 @@
 
 <div align="center">
 
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=EmreBHCC&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)<br/>
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=EmreBHCC&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
   ![](https://github-readme-stats.vercel.app/api?username=EmreBHCC&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -57,6 +52,10 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBHCC&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+<h1 align="center">✨ Dinlenme Yerim ✨</h1>
+
+![Link Resting](https://github.com/EmreBHCC/assets/blob/main/4753d776ae8b2e1bd3ba05289ad27f8b.gif)
 
 
 
