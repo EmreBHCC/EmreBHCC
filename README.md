@@ -39,13 +39,25 @@
 ### 🎮 Oyun Geliştirme
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal%20engine)
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmreBHCC&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EmreBHCC&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBHCC&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+
+  <!-- GitHub Trophies -->
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=EmreBHCC&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <!-- GitHub Stats -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreBHCC&show_icons=true&theme=tokyonight&border_radius=20)
+
+  <!-- Top Languages -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBHCC&layout=compact&theme=tokyonight)
+
+  <!-- Streak Stats -->
+  ![GitHub Streak](https://streak-stats.demolab.com?user=EmreBHCC&theme=radical)
+
 </div>
+
+
 
 
 
