@@ -44,12 +44,12 @@
 
   [![Trophy](https://github-profile-trophy.vercel.app/?username=EmreBHCC&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-  ![](https://github-readme-stats.vercel.app/api?username=EmreBHCC&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-  ![](https://nirzak-streak-stats.vercel.app/?user=EmreBHCC&theme=algolia&hide_border=false)<br/>
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBHCC&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats.shion.dev/api?username=EmreBHCC&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="EmreBHCC GitHub Stats" /><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmreBHCC&theme=algolia&hide_border=false" alt="EmreBHCC Streak Stats" /><br/>
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EmreBHCC&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="EmreBHCC Top Languages" />
+  
 </div>
 
 <h1 align="center">✨ Dinlenme Yerim ✨</h1>
